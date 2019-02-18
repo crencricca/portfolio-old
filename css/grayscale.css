@@ -7,6 +7,7 @@
 body {
   font-family: "Cairo";
   color:#F8F9FA;
+  letter-spacing: 0.0625em;
 }
 
 #mainNav {
@@ -199,6 +200,7 @@ body {
 
 .skills-section {
   padding-top:6rem;
+  padding-bottom:6rem;
   background:#F8F9FA;
   color: black;
 }
@@ -236,6 +238,7 @@ body {
 
 .projects-section {
   padding: 10rem 0;
+  background: #6a89cc;
 }
 
 .projects-section .featured-text {
@@ -309,11 +312,7 @@ body {
   width: 3rem;
 }
 
-.contact-section .social {
-  margin-top: 5rem;
-}
-
-.contact-section .social a {
+footer .social a {
   text-align: center;
   height: 3rem;
   width: 3rem;
@@ -323,17 +322,12 @@ body {
   color: rgba(255, 255, 255, 0.3);
 }
 
-.contact-section .social a:hover {
+footer .social a:hover {
   color: rgba(255, 255, 255, 0.5);
 }
 
-.contact-section .social a:active {
+footer .social a:active {
   color: #fff;
-}
-
-body {
-  font-family: 'Nunito';
-  letter-spacing: 0.0625em;
 }
 
 a {
@@ -358,5 +352,5 @@ a:focus, a:hover {
 }
 
 footer {
-  padding: 5rem 0;
+  padding: 2rem 0;
 }
