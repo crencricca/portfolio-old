@@ -8,6 +8,7 @@
 - Multiple users silhouette free icon made by Freepik from www.flaticon.com
 - Confetti made by pongsakornRed from www.flaticon.com
 - Question mark free icon made by Daniel Bruce from www.flaticon.com
+- dog free icon made by FreePik from www.flaticon.com
 
 ## THEME CREDIT ##
 
