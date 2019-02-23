@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f832053b-7f84-424e-81d5-cff082d01cef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/dog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Empire Air SC.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Empire Air.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Moodify.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Portfolio Skills.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/grayscale.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/grayscale.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/indexWIP.html" beforeDir="false" afterPath="$PROJECT_DIR$/indexWIP.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,8 +33,8 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="2" />
-          <entry key="html" value="2" />
-          <entry key="jpg" value="2" />
+          <entry key="html" value="3" />
+          <entry key="jpg" value="3" />
           <entry key="md" value="1" />
           <entry key="png" value="3" />
         </counts>
@@ -38,22 +42,22 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="2" />
-          <entry key="HTML" value="2" />
-          <entry key="Image" value="5" />
+          <entry key="HTML" value="3" />
+          <entry key="Image" value="6" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="1050" />
-          <entry key="html" value="1707" />
+          <entry key="css" value="1242" />
+          <entry key="html" value="2365" />
           <entry key="md" value="263" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="1050" />
-          <entry key="HTML" value="1707" />
+          <entry key="CSS" value="1242" />
+          <entry key="HTML" value="2365" />
           <entry key="PLAIN_TEXT" value="263" />
         </counts>
       </usages-collector>
@@ -61,34 +65,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="291">
+              <caret line="177" column="12" selection-start-line="177" selection-start-column="12" selection-end-line="177" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/multiple-users-silhouette.png">
+        <entry file="file://$PROJECT_DIR$/indexWIP.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="134" selection-start-line="134" selection-end-line="174" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/bg-masthead.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/grayscale.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="322" column="1" lean-forward="true" selection-start-line="322" selection-start-column="1" selection-end-line="322" selection-end-column="1" />
+            <state relative-caret-position="105">
+              <caret line="247" column="1" selection-start-line="247" selection-start-column="1" selection-end-line="247" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+            <state relative-caret-position="-91">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -109,6 +122,7 @@
       <find>confetti</find>
       <find>nav</find>
       <find>footer</find>
+      <find>.title</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -117,10 +131,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/indexWIP.html" />
-        <option value="$PROJECT_DIR$/css/grayscale.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/css/grayscale.css" />
+        <option value="$PROJECT_DIR$/indexWIP.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -202,12 +216,12 @@
       <option name="presentableId" value="Default" />
       <updated>1549742062466</updated>
       <workItem from="1549742063838" duration="534000" />
-      <workItem from="1550451585772" duration="11819000" />
+      <workItem from="1550451585772" duration="15770000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12353000" />
+    <option name="totallyTimeSpent" value="16304000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="11" y="23" width="1368" height="773" extended-state="0" />
@@ -251,37 +265,40 @@
     <entry file="file://$PROJECT_DIR$/img/Portfolio About Me.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/indexWIP.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="261" column="14" lean-forward="true" selection-start-line="251" selection-start-column="7" selection-end-line="261" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/grayscale.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="322" column="1" lean-forward="true" selection-start-line="322" selection-start-column="1" selection-end-line="322" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/multiple-users-silhouette.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/img/noun_Dog_17977.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="-91">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/img/bg-masthead.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/grayscale.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+        <state relative-caret-position="105">
+          <caret line="247" column="1" selection-start-line="247" selection-start-column="1" selection-end-line="247" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/indexWIP.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="134" selection-start-line="134" selection-end-line="174" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="177" column="12" selection-start-line="177" selection-start-column="12" selection-end-line="177" selection-end-column="12" />
         </state>
       </provider>
     </entry>

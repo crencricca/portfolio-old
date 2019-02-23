@@ -201,7 +201,8 @@ body {
 .skills-section {
   padding-top:6rem;
   padding-bottom:6rem;
-  background:#F8F9FA;
+  background: url("../img/Portfolio Skills.jpg") no-repeat scroll center;
+  background-size: cover;
   color: black;
 }
 
@@ -237,19 +238,37 @@ body {
 }
 
 .projects-section {
-  padding: 10rem 0;
-  background: #6a89cc;
+  padding: 6rem 0;
+  background: #343A49;
+  color: #F8F9FB;
 }
+
+.projects-section img {
+  /*border: .25rem solid #64a19d;*/
+}
+
 
 .projects-section .featured-text {
   padding: 2rem;
 }
 
+.projects-section .title {
+  padding-bottom: 3rem;
+}
+
 @media (min-width: 992px) {
-  .projects-section .featured-text {
+  .rb {
+    padding: 0 2rem 0 0;
+    border-right: 0.5rem solid #64a19d;
+  }
+  .lb {
     padding: 0 0 0 2rem;
     border-left: 0.5rem solid #64a19d;
   }
+}
+
+.project-skills {
+  color: #64a19d;
 }
 
 .projects-section .project-text {
@@ -261,10 +280,10 @@ body {
   .projects-section .project-text {
     padding: 5rem;
   }
-  .projects-section .project-text hr {
-    border-color: #64a19d;
-    border-width: .25rem;
-    width: 30%;
+  .projects-section hr {
+    border-color: white;
+    border-width: .1rem;
+    /*width: 30%;*/
   }
 }
 
